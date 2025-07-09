@@ -58,6 +58,27 @@ npm -v
 
 ---
 
+## ⚙️ Method 3: Use a Bash Script (Interactive)
+
+You can also run an interactive Bash script to choose between **NodeSource** and **nvm** installations.
+
+### 1. Clone the script
+
+```
+git clone https://github.com/itspriyanshuks17/nodejs_ubuntu.git
+cd nodejs_ubuntu
+```
+
+
+### 2. Run the script
+
+```bash
+chmod +x install-node.sh
+./install-node.sh
+```
+
+---
+
 ## ✅ Test the Installation
 
 Create a test file and run it:
